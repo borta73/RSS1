@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+	<channel>
+		<title>Ejemplo de RSS</title>
+		<link> http://lm2018.mozello.es </link>
+		<description> El tiempo </description>
+		<language>es</language>
+		<item>
+			<title>Tiempo Alcalá</title>
+			<link>https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html</link>
+			<description> ¿Qué tiempo hará hoy en Alcalá? </description>
+		</item>
+	</channel>
+</rss>
