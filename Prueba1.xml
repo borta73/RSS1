@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0">
 	<channel>
-		<title>Ejemplo de RSS</title>
-		<link> http://lm2018.mozello.es </link>
-		<description> El tiempo </description>
+		<title>El tiempo de Alcalá de Henares</title>
+		<link> https://borta37.github.io </link>
+		<description> El tiempo del dia de hoy en nuestra querida ciudad </description>
 		<language>es</language>
 		<item>
 			<title>Tiempo Alcalá</title>
