@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>El tiempo de Alcalá de Henares</title>
+		<atom:link href="http://feeds.feedburner.com/soundcloud/lfvU" rel="self" type="application/rss+xml"/>
+		<link> https://borta73.github.io </link>
+		<description> El tiempo del dia de hoy en nuestra querida ciudad </description>
+		<language>es</language>
+		<item>
+			<itunes:summary>Mis músicas<itunes:summary>
+			<itunes:author> Alex </itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<title>Tiempo Alcalá</title>
+			<link>https://borta73.github.io</link>
+			<description> ¿Qué tiempo hará hoy en Alcalá? </description>
+			<itunes:category text="Electronic"/> 
+			<enclosure url="http://www.borta73/RSS1/Lost My Way - Sickick [Lossless_FLAC].flac" type="audio/mpeg3;"/>
+		</item>
+	</channel>
+</rss>
