@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
-	<title type="text">Noticias pero en Atom :)</title>
+	<title type="text">El tiempo pero en Atom :)</title>
 	<id>https://borta37.github.io</id>
 	<link rel="self" type="application/atom+xml" href="https://borta73.github.io/RSS1/PruebaATOM.xml/"/>
 	<link rel="alternate" type="text/html" href="https://borta73.github.io" />
