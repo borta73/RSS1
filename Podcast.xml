@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+	<channel>
+		<title> Música al azar </title>
+		<link> https://www.spreaker.com/show/eminems-biography </link>
+		<description> En este RSS hay podcast de canciones al azar suministradas por Spreaker.com </description>
+		<language>es</language>
+		<item>
+			<title>BTS Jungkook, Lady Jane - I'm In Love</title>
+			<link>https://borta73.github.io</link>
+			<description> Canción del grupo musical BTS </description>
+			<enclosure url="https://api.spreaker.com/download/episode/15921066/jungkook_bts_x_lady_jane_i_m_in_love_color_coded_lyricsengromhan.mp3" length="23282" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>
