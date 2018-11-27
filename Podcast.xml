@@ -9,7 +9,7 @@
 			<title>Tiempo Alcalá</title>
 			<link>https://borta73.github.io</link>
 			<description> ¿Qué tiempo hará hoy en Alcalá? </description>
-			<enclosure url="http://www.borta73/RSS1/Lost My Way - Sickick [Lossless_FLAC].flac" type="audio/mpeg3;"/>
+			<enclosure url="http://www.borta73/RSS1/Lost My Way - Sickick [Lossless_FLAC].flac" type="audio/Lossless_FLAC;"/>
 		</item>
 	</channel>
 </rss>
