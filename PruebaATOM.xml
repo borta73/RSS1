@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<title type="text">El tiempo pero en Atom :)</title>
+	<id>https://borta73.github.io</id>
+	<link rel="self" type="application/atom+xml" href="https://borta73.github.io/RSS1/PruebaATOM.xml/"/>
+	<link rel="alternate" type="text/html" href="https://borta73.github.io" />
+	<updated>2018-11-25T01:29:06Z</updated>
+	<author>
+		<name>Alex Ababei</name>
+		<email>alexababeix@yahoo.com</email>
+	</author>
+	<entry>
+		<title>Tiempo de Alcalá</title>
+		<id>https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html</id>
+		<link rel="alternate" type="text/html" href="https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html"/>
+		<updated>2018-11-25T01:29:06Z</updated>
+	
+		<author>
+			<name>Alex Ababei</name>
+			<email> alexababeix@yahoo.com </email>
+		</author>	
+		<summary>En esta página hay noticias del tiempo en Alcalá de Henares, venid a verlo, que emoción!</summary>
+	</entry>
+	<entry>
+		<title>Noticia sobre las lluvias y temperaturas en Madrid</title>
+		<id>https://ecodiario.eleconomista.es/medio-ambiente/noticias/9542052/11/18/Lluvia-y-temperaturas-en-aumento.html</id>
+		<link rel="alternate" type="text/html" href="https://ecodiario.eleconomista.es/medio-ambiente/noticias/9542052/11/18/Lluvia-y-temperaturas-en-aumento.html"/>
+		<updated>2018-11-28T12:41:08Z</updated>
+	
+		<author>
+			<name>Alex Ababei</name>
+			<email> alexababeix@yahoo.com </email>
+		</author>	
+		<summary> La Agencia Estatal de Meteorología anunció chubascos el domingo 25 en Madrid </summary>
+	</entry>
+</feed>
