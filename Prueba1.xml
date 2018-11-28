@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+	<channel>
+		<title>El tiempo de Alcalá de Henares</title>
+		<link> https://borta73.github.io </link>
+		<description> El tiempo del dia de hoy en nuestra querida ciudad </description>
+		<language>es</language>
+		<item>
+			<title>Tiempo Alcalá</title>
+			<link>https://www.tiempo.es/madrid-alcala_de_henares-es0ma0005.html</link>
+			<description> ¿Qué tiempo hará hoy en Alcalá? </description>
+		</item>
+		<item>
+			<title>Noticia de lluvias y temperaturas</title>
+			<link>https://ecodiario.eleconomista.es/medio-ambiente/noticias/9542052/11/18/Lluvia-y-temperaturas-en-aumento.html</link>
+			<description> Mirar la noticia para verificar la vericidad de mi afirmación </description>
+		</item>
+	</channel>
+</rss>
